@@ -1,2 +1,3 @@
-# notehub_privacy_policy
-NoteHub Privacy policy.
+# Notehub App
+
+#### [Google Play](https://play.google.com/store/apps/details?id=com.pedrorochaosx.notehub)
